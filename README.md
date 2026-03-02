@@ -28,19 +28,17 @@ Time span: ~3 years (2022–2024)
 ## 📊 Key Insights & Business Recommendations
 
 ### Overall Performance (2022–2024)
-- **Total revenue**: 10,667,881  
-- **Total profit**: 1,844,665  
+- **Total revenue**: $10,667,881  
+- **Total profit**: $1,844,665  
 - **Average profit margin**: ~17.3%  
 - Profit Margin trend: stable at ~18% in 2022–2023, slight decline to ~17% in 2024  
 **Interpretation**: Profitability is consistent but not growing — possible causes include rising input costs, increased discounting, or competitive pressure. Margin compression should be monitored.
 
-### Category Performance
+### Product Category Performance
 - **Electronics** is the clear leader:  
-  • Revenue: **5,326,074** (~50% of total)  
-  • Profit: **923,186** (~50% of total profit)  
+  • Revenue: **$5,326,074** (~50% of total)  
+  • Profit: **$923,186** (~50% of total profit)  
  **Strong recommendation**: Allocate more marketing budget and inventory focus to Electronics - this category drives the majority of profitability.
-
-*(Other categories — add if you have the numbers, e.g.: Fashion ~22% revenue but lower margin)*
 
 ### Regional Performance
 - Sales volume, revenue, and profit are distributed **very evenly** across regions (variation < 12–15%).  
